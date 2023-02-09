@@ -1,4 +1,4 @@
-# Incidents_Labeling
+# Incidents Labeling
 This repo is about the development of a Machine Learning Model to Label IT Incidents automatically.
 
 The provided code is a basic implementation of a machine learning model for text classification. The main goal is to classify incidents into different categories based on the text description provided. The code consists of the following steps:
